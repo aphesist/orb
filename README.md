@@ -4,7 +4,7 @@ Chibi teammate avatars with faces painted onto a real sphere.
 
 `<orb-avatar>` is a single, dependency-free Web Component. Each orb is a colored ball with a small face that turns in 3D, follows your cursor or glances around on its own, morphs smoothly between reactions, and reacts when you poke it. It works in plain HTML and in any framework.
 
-**[Live demo and playground →](aphesimos.github.io/orb/)**
+**[Live demo and playground →](https://aphesist.github.io/orb/)**
 
 <p>
   <img src="svg/orb-idle-bone.svg" width="72" alt="Idle orb">
